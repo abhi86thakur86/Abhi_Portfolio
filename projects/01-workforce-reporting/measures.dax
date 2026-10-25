@@ -1,0 +1,36 @@
+// Add each measure separately using New measure in Power BI Desktop.
+// Use table names: positions, departments, recruitment.
+// Single-snapshot model. See POWER_BI_GUIDE.md before using date slicers.
+
+Approved Positions = COUNTROWS(positions)
+
+Headcount =
+CALCULATE(
+    DISTINCTCOUNT(positions[employee_id]),
+    positions[status] = "Filled",
+    positions[employee_id] <> BLANK()
+)
+
+Filled FTE =
+CALCULATE(SUM(positions[fte]), positions[status] = "Filled")
+
+Vacant Positions =
+CALCULATE(COUNTROWS(positions), positions[status] = "Vacant")
+
+Vacant FTE =
+CALCULATE(SUM(positions[fte]), positions[status] = "Vacant")
+
+Vacancy Rate = DIVIDE([Vacant Positions], [Approved Positions])
+
+Vacancies Over 60 Days =
+COUNTROWS(
+    FILTER(
+        positions,
+        positions[status] = "Vacant"
+            && NOT ISBLANK(positions[vacancy_open_date])
+            && DATEDIFF(positions[vacancy_open_date], positions[snapshot_date], DAY) > 60
+    )
+)
+
+// Requisition table is filtered by positions through a single-direction relationship.
+Requisitions = COUNTROWS(recruitment)

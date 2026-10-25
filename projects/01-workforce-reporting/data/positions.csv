@@ -1,0 +1,121 @@
+position_id,department_id,role_family,status,employee_id,fte,snapshot_date,vacancy_open_date
+P001,D01,Service delivery,Filled,EMP001,1.0,2025-12-31,
+P002,D01,Analysis,Filled,EMP002,1.0,2025-12-31,
+P003,D01,Coordination,Filled,EMP003,1.0,2025-12-31,
+P004,D01,Leadership,Filled,EMP004,0.8,2025-12-31,
+P005,D01,Service delivery,Filled,EMP005,0.6,2025-12-31,
+P006,D01,Analysis,Filled,EMP006,1.0,2025-12-31,
+P007,D01,Coordination,Filled,EMP007,1.0,2025-12-31,
+P008,D01,Leadership,Filled,EMP008,1.0,2025-12-31,
+P009,D01,Service delivery,Filled,EMP009,0.8,2025-12-31,
+P010,D01,Analysis,Filled,EMP010,0.6,2025-12-31,
+P011,D01,Coordination,Filled,EMP011,1.0,2025-12-31,
+P012,D01,Leadership,Filled,EMP012,1.0,2025-12-31,
+P013,D01,Service delivery,Filled,EMP013,1.0,2025-12-31,
+P014,D01,Analysis,Filled,EMP014,0.8,2025-12-31,
+P015,D01,Coordination,Filled,EMP015,0.6,2025-12-31,
+P016,D01,Leadership,Filled,EMP016,1.0,2025-12-31,
+P017,D01,Service delivery,Filled,EMP017,1.0,2025-12-31,
+P018,D01,Analysis,Filled,EMP018,1.0,2025-12-31,
+P019,D01,Coordination,Filled,EMP019,0.8,2025-12-31,
+P020,D01,Leadership,Filled,EMP020,0.6,2025-12-31,
+P021,D01,Service delivery,Filled,EMP021,1.0,2025-12-31,
+P022,D01,Analysis,Filled,EMP022,1.0,2025-12-31,
+P023,D01,Coordination,Filled,EMP023,1.0,2025-12-31,
+P024,D01,Leadership,Filled,EMP024,0.8,2025-12-31,
+P025,D01,Service delivery,Filled,EMP025,0.6,2025-12-31,
+P026,D01,Analysis,Filled,EMP026,1.0,2025-12-31,
+P027,D01,Coordination,Filled,EMP027,1.0,2025-12-31,
+P028,D01,Leadership,Filled,EMP028,1.0,2025-12-31,
+P029,D01,Service delivery,Filled,EMP029,0.8,2025-12-31,
+P030,D01,Analysis,Filled,EMP030,0.6,2025-12-31,
+P031,D01,Coordination,Filled,EMP031,1.0,2025-12-31,
+P032,D01,Leadership,Filled,EMP032,1.0,2025-12-31,
+P033,D01,Service delivery,Filled,EMP033,1.0,2025-12-31,
+P034,D01,Analysis,Filled,EMP034,0.8,2025-12-31,
+P035,D01,Coordination,Filled,EMP035,0.6,2025-12-31,
+P036,D01,Leadership,Filled,EMP036,1.0,2025-12-31,
+P037,D01,Service delivery,Filled,EMP037,1.0,2025-12-31,
+P038,D01,Analysis,Filled,EMP038,1.0,2025-12-31,
+P039,D01,Coordination,Vacant,,0.8,2025-12-31,2025-11-22
+P040,D01,Leadership,Vacant,,0.6,2025-12-31,2025-11-09
+P041,D01,Service delivery,Vacant,,1.0,2025-12-31,2025-10-27
+P042,D01,Analysis,Vacant,,1.0,2025-12-31,2025-10-14
+P043,D01,Coordination,Vacant,,1.0,2025-12-31,2025-10-01
+P044,D01,Leadership,Vacant,,0.8,2025-12-31,2025-09-18
+P045,D01,Service delivery,Vacant,,0.6,2025-12-31,2025-09-05
+P046,D01,Analysis,Vacant,,1.0,2025-12-31,2025-12-06
+P047,D01,Coordination,Vacant,,1.0,2025-12-31,2025-11-23
+P048,D01,Leadership,Vacant,,1.0,2025-12-31,2025-11-10
+P049,D01,Service delivery,Vacant,,0.8,2025-12-31,2025-10-28
+P050,D01,Analysis,Vacant,,0.6,2025-12-31,2025-10-15
+P051,D02,Service delivery,Filled,EMP039,1.0,2025-12-31,
+P052,D02,Analysis,Filled,EMP040,1.0,2025-12-31,
+P053,D02,Coordination,Filled,EMP041,1.0,2025-12-31,
+P054,D02,Leadership,Filled,EMP042,0.8,2025-12-31,
+P055,D02,Service delivery,Filled,EMP043,0.6,2025-12-31,
+P056,D02,Analysis,Filled,EMP044,1.0,2025-12-31,
+P057,D02,Coordination,Filled,EMP045,1.0,2025-12-31,
+P058,D02,Leadership,Filled,EMP046,1.0,2025-12-31,
+P059,D02,Service delivery,Filled,EMP047,0.8,2025-12-31,
+P060,D02,Analysis,Filled,EMP048,0.6,2025-12-31,
+P061,D02,Coordination,Filled,EMP049,1.0,2025-12-31,
+P062,D02,Leadership,Filled,EMP050,1.0,2025-12-31,
+P063,D02,Service delivery,Filled,EMP051,1.0,2025-12-31,
+P064,D02,Analysis,Filled,EMP052,0.8,2025-12-31,
+P065,D02,Coordination,Filled,EMP053,0.6,2025-12-31,
+P066,D02,Leadership,Filled,EMP054,1.0,2025-12-31,
+P067,D02,Service delivery,Filled,EMP055,1.0,2025-12-31,
+P068,D02,Analysis,Vacant,,1.0,2025-12-31,2025-11-10
+P069,D02,Coordination,Vacant,,0.8,2025-12-31,2025-10-28
+P070,D02,Leadership,Vacant,,0.6,2025-12-31,2025-10-15
+P071,D03,Service delivery,Filled,EMP056,1.0,2025-12-31,
+P072,D03,Analysis,Filled,EMP057,1.0,2025-12-31,
+P073,D03,Coordination,Filled,EMP058,1.0,2025-12-31,
+P074,D03,Leadership,Filled,EMP059,0.8,2025-12-31,
+P075,D03,Service delivery,Filled,EMP060,0.6,2025-12-31,
+P076,D03,Analysis,Filled,EMP061,1.0,2025-12-31,
+P077,D03,Coordination,Filled,EMP062,1.0,2025-12-31,
+P078,D03,Leadership,Filled,EMP063,1.0,2025-12-31,
+P079,D03,Service delivery,Filled,EMP064,0.8,2025-12-31,
+P080,D03,Analysis,Filled,EMP065,0.6,2025-12-31,
+P081,D03,Coordination,Filled,EMP066,1.0,2025-12-31,
+P082,D03,Leadership,Filled,EMP067,1.0,2025-12-31,
+P083,D03,Service delivery,Filled,EMP068,1.0,2025-12-31,
+P084,D03,Analysis,Vacant,,0.8,2025-12-31,2025-09-23
+P085,D03,Coordination,Vacant,,0.6,2025-12-31,2025-09-10
+P086,D04,Service delivery,Filled,EMP069,1.0,2025-12-31,
+P087,D04,Analysis,Filled,EMP070,1.0,2025-12-31,
+P088,D04,Coordination,Filled,EMP071,1.0,2025-12-31,
+P089,D04,Leadership,Filled,EMP072,0.8,2025-12-31,
+P090,D04,Service delivery,Filled,EMP073,0.6,2025-12-31,
+P091,D04,Analysis,Filled,EMP074,1.0,2025-12-31,
+P092,D04,Coordination,Filled,EMP075,1.0,2025-12-31,
+P093,D04,Leadership,Filled,EMP076,1.0,2025-12-31,
+P094,D04,Service delivery,Filled,EMP077,0.8,2025-12-31,
+P095,D04,Analysis,Filled,EMP078,0.6,2025-12-31,
+P096,D04,Coordination,Filled,EMP079,1.0,2025-12-31,
+P097,D04,Leadership,Filled,EMP080,1.0,2025-12-31,
+P098,D04,Service delivery,Filled,EMP081,1.0,2025-12-31,
+P099,D04,Analysis,Filled,EMP082,0.8,2025-12-31,
+P100,D04,Coordination,Filled,EMP083,0.6,2025-12-31,
+P101,D04,Leadership,Filled,EMP084,1.0,2025-12-31,
+P102,D04,Service delivery,Filled,EMP085,1.0,2025-12-31,
+P103,D04,Analysis,Filled,EMP086,1.0,2025-12-31,
+P104,D04,Coordination,Filled,EMP087,0.8,2025-12-31,
+P105,D04,Leadership,Filled,EMP088,0.6,2025-12-31,
+P106,D04,Service delivery,Filled,EMP089,1.0,2025-12-31,
+P107,D04,Analysis,Filled,EMP090,1.0,2025-12-31,
+P108,D04,Coordination,Filled,EMP091,1.0,2025-12-31,
+P109,D04,Leadership,Filled,EMP092,0.8,2025-12-31,
+P110,D04,Service delivery,Filled,EMP093,0.6,2025-12-31,
+P111,D04,Analysis,Filled,EMP094,1.0,2025-12-31,
+P112,D04,Coordination,Filled,EMP095,1.0,2025-12-31,
+P113,D04,Leadership,Filled,EMP096,1.0,2025-12-31,
+P114,D04,Service delivery,Vacant,,0.8,2025-12-31,2025-09-18
+P115,D04,Analysis,Vacant,,0.6,2025-12-31,2025-09-05
+P116,D04,Coordination,Vacant,,1.0,2025-12-31,2025-12-06
+P117,D04,Leadership,Vacant,,1.0,2025-12-31,2025-11-23
+P118,D04,Service delivery,Vacant,,1.0,2025-12-31,2025-11-10
+P119,D04,Analysis,Vacant,,0.8,2025-12-31,2025-10-28
+P120,D04,Coordination,Vacant,,0.6,2025-12-31,2025-10-15

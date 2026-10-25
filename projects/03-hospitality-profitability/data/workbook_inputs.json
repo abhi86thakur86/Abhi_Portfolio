@@ -1,0 +1,1350 @@
+{
+  "sales": [
+    {
+      "month": "2025-01-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 492,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 279,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 345,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 166,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 324,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 199,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 244,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 106,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 382,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 223,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 274,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-01-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 138,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 431,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 274,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 348,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 166,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 289,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 188,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 231,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 100,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 385,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 235,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 267,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-02-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 126,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 456,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 259,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 298,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 144,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 292,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 175,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 214,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 103,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 344,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 226,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 249,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-03-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 123,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 431,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 259,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 319,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 149,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 275,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 155,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 190,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 93,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 310,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 196,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 229,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-04-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 114,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 385,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 230,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 274,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 130,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 238,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 161,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 185,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 89,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 288,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 193,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 213,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-05-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 106,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 368,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 217,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 256,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 126,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 235,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 144,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 159,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 75,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 268,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 165,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 195,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-06-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 105,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 354,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 203,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 253,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 118,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 231,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 134,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 156,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 75,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 271,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 161,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 201,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-07-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 101,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 352,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 212,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 282,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 128,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 219,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 135,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 162,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 84,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 297,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 175,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 198,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-08-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 100,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 427,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 248,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 314,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 150,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 242,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 166,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 196,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 93,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 309,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 201,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 223,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-09-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 113,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 430,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 285,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 336,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 149,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 281,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 166,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 220,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 106,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 336,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 218,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 259,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-10-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 118,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 479,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 288,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 354,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 166,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 279,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 181,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 207,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 114,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 389,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 239,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 265,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-11-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 124,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Dine-in",
+      "category": "Mains",
+      "units": 531,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Dine-in",
+      "category": "Sides",
+      "units": 332,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Dine-in",
+      "category": "Drinks",
+      "units": 350,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Dine-in",
+      "category": "Desserts",
+      "units": 180,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Pickup",
+      "category": "Mains",
+      "units": 308,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Pickup",
+      "category": "Sides",
+      "units": 210,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Pickup",
+      "category": "Drinks",
+      "units": 251,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Pickup",
+      "category": "Desserts",
+      "units": 111,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.015
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Delivery",
+      "category": "Mains",
+      "units": 402,
+      "unit_price": 24,
+      "unit_food_cost": 8,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Delivery",
+      "category": "Sides",
+      "units": 251,
+      "unit_price": 9,
+      "unit_food_cost": 2.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Delivery",
+      "category": "Drinks",
+      "units": 288,
+      "unit_price": 6,
+      "unit_food_cost": 1.5,
+      "fee_rate": 0.28
+    },
+    {
+      "month": "2025-12-01",
+      "channel": "Delivery",
+      "category": "Desserts",
+      "units": 152,
+      "unit_price": 11,
+      "unit_food_cost": 3.5,
+      "fee_rate": 0.28
+    }
+  ],
+  "overheads": [
+    {
+      "month": "2025-01-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-02-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-03-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-04-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-05-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-06-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-07-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-08-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-09-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-10-01",
+      "overhead": 29500
+    },
+    {
+      "month": "2025-11-01",
+      "overhead": 31000
+    },
+    {
+      "month": "2025-12-01",
+      "overhead": 31000
+    }
+  ]
+}

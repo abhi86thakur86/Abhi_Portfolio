@@ -1,0 +1,3 @@
+# Core generation, SQL and checks use Python standard library only.
+# Optional: install matplotlib in your own environment to rebuild PNG previews.
+matplotlib>=3.7,<4
